@@ -1,0 +1,83 @@
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #DAC0A3;
+        margin: 0;
+        padding: 0;
+    }
+
+    .card {
+        background-color: #F8F0E5;
+        width: 80%;
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    ol {
+        padding: 0;
+        padding-left: 35%;
+    }
+
+    li {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+
+    form {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    label {
+        font-size: 18px;
+    }
+
+    select,
+    input[type="number"],
+    input[type="submit"] {
+        font-size: 16px;
+        padding: 5px;
+        margin: 5px;
+        border-radius: 5px;
+    }
+
+    select {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    input[type="number"] {
+        width: 80px;
+    }
+
+    input[type="submit"] {
+        background-color: #0F2C59;
+        color: #f0f0f0;
+        cursor: pointer;
+        border: none;
+    }
+
+    .hasil {
+        background-color: #F8F0E5;
+        width: 80%;
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+    }

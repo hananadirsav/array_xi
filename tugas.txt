@@ -1,0 +1,5 @@
+latihan array_function
+button 1 menampilkan data siswa >= 17(usia)
+input 2 mancari data siswa berdasarkan nama (dari inputan)
+data : nis, nama, rombel, umur
+array_search
